@@ -7,7 +7,7 @@
 ```cpp
 #include "mainwindow.h"
 #include <QApplication>
-//添加头文件
+//include header
 #include <qdebug.h>
 #include <QtSql>
 #include <QSqlDatabase>
